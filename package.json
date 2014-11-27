@@ -17,5 +17,9 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/vweevers/anim"
+  },
+  "dependencies": {
+    "ease-component": "^1.0.0",
+    "raf-component": "^1.1.2"
   }
 }
