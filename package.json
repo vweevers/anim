@@ -1,0 +1,21 @@
+{
+  "name": "anim",
+  "version": "0.0.0",
+  "description": "Animate a property from current to specified value",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "keywords": [
+    "animate",
+    "raf",
+    "ease",
+    "smooth"
+  ],
+  "author": "Vincent Weevers",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vweevers/anim"
+  }
+}
